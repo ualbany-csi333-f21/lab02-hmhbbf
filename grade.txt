@@ -1,0 +1,12 @@
+Lab-2 Grading Criteria
+    
+ - Compiling : Yes
+ - Reading values in (3pt) : 3
+ - Printing results (3pt) : 3
+ - Division (2pt) : 2
+ - Modulo (2pt) : 2
+
+ - Total : 10
+
+Feedback:
+ - 
